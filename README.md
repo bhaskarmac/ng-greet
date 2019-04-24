@@ -7,6 +7,6 @@ angular component to greet
 
 ### TODO
 
-- [ ] initial component setup
+- [x] initial component setup
 - [ ] setup travis
 - [ ] add contributing.md
